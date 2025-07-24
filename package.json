@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-       "@clerk/nextjs": "^6.22.0",
+    "@clerk/nextjs": "^6.22.0",
     "@clerk/themes": "^2.2.51",
     "@imagekit/next": "^2.1.2",
     "@radix-ui/react-dialog": "^1.1.14",
@@ -36,7 +36,6 @@
     "react-spinners": "^0.17.0",
     "sonner": "^2.0.5",
     "tailwind-merge": "^3.3.1"
-    
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
@@ -44,6 +43,6 @@
     "eslint": "^9",
     "eslint-config-next": "15.3.3",
     "tailwindcss": "^4",
-    "tw-animate-css": "^1.3.4"
+    "tw-animate-css": "^1.3.5"
   }
 }
